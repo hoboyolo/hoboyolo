@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**hoboyolo/hoboyolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
-
-# Hi there! 👋
-
 I'm James, and you have found my small portfolio / hobby of building practical tools and exploring intelligent systems. I enjoy turning abstract concepts into functional applications and uncovering patterns in data. 🕺🏼
 
 ## 🚀 My Tech Stack
